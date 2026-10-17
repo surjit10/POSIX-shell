@@ -1,0 +1,12 @@
+# Build output
+myshell
+*.o
+
+# Shell runtime data
+.myshell_history
+
+# Editor and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
